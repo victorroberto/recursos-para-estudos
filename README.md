@@ -1,19 +1,19 @@
 # Recursos para Estudos
 ## 📑 Tabela de Conteúdos
 
- - Tabela de Conteúdos
- - Sobre
- - Recursos
-   - Perfis
-   - Git e GitHub
-     - Cursos
-     - Livros
-     - Links
- - Contribua
-   - Ajude
-   - Contribua
- - Licença
- - Contato
+ - [Tabela de Conteúdos](https://github.com/victorroberto/recursos-para-estudos#-tabela-de-conte%C3%BAdos)
+ - [Sobre](https://github.com/victorroberto/recursos-para-estudos#%EF%B8%8F-sobre)
+ - [Recursos](https://github.com/victorroberto/recursos-para-estudos#%EF%B8%8F-recursos)
+   - [Perfis](https://github.com/victorroberto/recursos-para-estudos#perfis)
+   - [Git e GitHub](https://github.com/victorroberto/recursos-para-estudos#git-e-github)
+     - [Cursos](https://github.com/victorroberto/recursos-para-estudos#cursos)
+     - [Livros](https://github.com/victorroberto/recursos-para-estudos#livros)
+     - [Links](https://github.com/victorroberto/recursos-para-estudos#links)
+ - [Contribua](https://github.com/victorroberto/recursos-para-estudos#-contribua)
+   - [Ajude](https://github.com/victorroberto/recursos-para-estudos#ajude)
+   - [Contribua](https://github.com/victorroberto/recursos-para-estudos#contribua)
+ - [Licença](https://github.com/victorroberto/recursos-para-estudos#-licen%C3%A7a)
+ - [Contato](https://github.com/victorroberto/recursos-para-estudos#-contato)
 
 # 🏷️ Sobre
 Este repositório foi criado com o intuito de compartilhar e divulgar recursos relevantes para estudos em Ciência de Dados e Programação em geral. Tentarei compartilhar ao máximo conteúdos, links, artigos, livros, vídeos, cursos, tutoriais, blogs, perfis, canais, podcasts e afins, com o intuito de estar sempre compartilhando e divulgando recursos que possam ser úteis para as pessoas de alguma forma.
