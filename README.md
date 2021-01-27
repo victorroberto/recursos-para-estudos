@@ -20,14 +20,17 @@
 
 Este repositório foi criado com o intuito de compartilhar e divulgar recursos relevantes para estudos em Ciência de Dados e Programação em geral. Tentarei compartilhar ao máximo conteúdos, links, artigos, livros, vídeos, cursos, tutoriais, blogs, perfis, canais, podcasts e afins, com o intuito de estar sempre compartilhando e divulgando recursos que possam ser úteis para as pessoas de alguma forma.
 
-# 🗃️ Recursos
+# 🗂️ Recursos
 
-# *Ciência de Dados*
+# 📊 *Ciência de Dados*
 
 ## **Cursos**
 
 Curso | Site/Link | Tema | Idioma | Descrição
 --- | --- | --- | --- | ---
+**Um Guia de Migração de Desenvolvedor para Cientista de Dados** | [Udemy](https://www.udemy.com/course/guia-de-migracao-de-desenvolvedor-para-cientista-de-dados/) | `Data Science` | `Português` | Um guia rápido que traz dicas importantes para planeja ou já esta migrando para a área de dados.
+**Intro to Data Science** | [Udacity](https://www.udacity.com/course/intro-to-data-science--ud359) | `Data Science` | `Inglês` | Um guia rápido que apresentará os tópicos brevemente, aplicando as técnicas básicas da ciência de dados.
+**Learn Data Science** | [Dataquest](https://www.udacity.com/course/intro-to-data-science--ud359) | `Data Science` | `Inglês` | Obtenha as habilidades que você precisa para conseguir seu primeiro trabalho de ciência de dados. Aprenda R, Python e SQL, sem necessidade de experiência!
 **Ciência de Dados - *John Hopkins*** | [Coursera](https://www.coursera.org/specializations/jhu-data-science) | `Data Science` | `Inglês`| Abrange conceitos utilizados em todo o pipeline de ciência de dados.
 **Ciência de Dados aplicada com Python - *Michigan*** | [Coursera](https://www.coursera.org/specializations/data-science-python) | `Data Science` | `Inglês` | Aplicar técnicas estatísticas, Machine Learning e  visualização de dados para obter insights sobre seus dados.
 **Introdução à Ciência de Dados** | [FGV](https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ciencia-de-dados) | `Data Science` | `Português` | Curso sobre ciência de dados e o ferramental matemático e computacional empregado em cada uma das etapas.
@@ -40,9 +43,10 @@ Curso | Site/Link | Tema | Idioma | Descrição
 
 Nome | Site/Link | Tema |
 | --- | --- | ---
+**Seja um Data Scientist - *Meigarom*** | [Youtube](https://www.youtube.com/channel/UCar5Cr-pVz08GY_6I3RX9bA) | `Data Science`, `Python`
+**Mário Filho** | [Youtube](https://www.youtube.com/c/MarioFilhoML) | `Data Science`, `Machine Learning`
 
-
-# *Python*
+# 🐍 *Python*
 
 ## **Cursos**
 Curso | Site/Link | Tema | Idioma | Descrição
@@ -50,16 +54,22 @@ Curso | Site/Link | Tema | Idioma | Descrição
 **Micro cursos em Python e suas bibliotecas** | [dphi.tech](https://dphi.tech/learn/) | `Python`, `Pandas`, `Numpy`, `Matplotlib`, `Data Analysis` | `Inglês` | Ciência de Dados através de cursos orientados a aplicativos‎. ‎Explore e aprenda habilidades práticas de dados que você pode aplicar no mundo real.‎
 **Data Analysis with Python: Zero to Pandas** | [Jovian](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) | `Data Analysis`, `Python`, `Numpy`, `Pandas` | `Inglês` | Introdução prática e amigável para à análise de dados que abrange os fundamentos de Python, Numpy, Pandas, Data Visualization e Exploratory Data Analysis.
 
+## **Perfis**
+Nome | Site/Link | Tema |
+| --- | --- | ---
+**Python Programmer** | [Youtube](https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg) | `Python`, `Pandas`, `Numpy`, `Matplotlib`
 
-# *Machine Learning*
+# 🤖 *Machine Learning*
 
 ## **Cursos**
 Curso | Site/Link | Tema | Idioma | Descrição
 --- | --- | --- | --- | ---
 **Machine Learning Crash Course** | [Google](https://developers.google.com/machine-learning/crash-course) | `Machine Learning` | `Inglês` | Introdução do Google ao Machine Learning. O Crash Course apresenta uma série de aulas com vídeo-aulas, estudos de caso do mundo real e exercícios práticos.
 **Open Machine Learning Course** | [mlcourse.ai](https://mlcourse.ai/) | `Machine Learning`, `Data Analysis`, `Pandas`, `Matplotlib`, `Seaborn` | `Inglês` | Machine Learning com o objetivo de projetar um curso de ML com um equilíbrio entre teoria e prática. Assim, você passa por fórmulas matemáticas em palestras, e pratica com competições kaggle.
+**Machine Learning - *Andrew Ng*** | [Coursera](https://www.coursera.org/learn/machine-learning) ou [Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) ou [Youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | `Machine Learning` | `Inglês` | Você aprenderá sobre as técnicas de aprendizado de máquina mais eficazes, e ganhará prática implementando-as e fazendo com que elas trabalhem por si mesmas.
+**Machine Learning Foundations** | [Google](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV) | `Machine Learning` | `Inglês` | ‎Machine Learning Foundations é um curso gratuito de treinamento onde você aprenderá os fundamentos da construção de modelos de apredizado de máquina usando tensorflow com Laurence Moroney, do Google. ‎
 
-# Git e GitHub
+# 🗃️ Git e GitHub
 
 ## Cursos
 - **Curso em Vídeo** - [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
